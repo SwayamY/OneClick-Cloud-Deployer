@@ -11,20 +11,20 @@ Build a simple web backend (FastAPI) that allows:
 - Running the `docker-compose` setup remotely
 - Returning the external IP for live app testing
 
-## ✅ Current Progress (30% Complete)
+## ✅ Current Progress (10%)
 
 | Component              | Status        |
 |------------------------|---------------|
 | FastAPI Project Setup  | ✅ Done        |
 | GitHub Clone Endpoint  | ✅ Working     |
-| Compose Validator      | ⚙️ Basic setup |
+| Compose Validator      | ✅ Working     |
 | VM Provisioning Logic  | 🚧 Planned     |
 | CI/CD Setup (GitHub Actions) | ⚙️ In progress |
 | External IP Return     | 🚧 Planned     |
 
 ## ⏸️ On Hold Due to Exams
 
-- This project is on hold due to **sessionals and end-sem exams** (May 5–15).
+- This project is on hold due to **sessionals and end-sem exams** (May 5– June 6).
 - Will resume work and update progress after exams.
 
 ## ⚙️ Tech Stack
