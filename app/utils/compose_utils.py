@@ -9,7 +9,7 @@ def validate_compose_file(redo_path:str):
             return False, "docker-compose.yml not found."
         
         with open(compose_path, 'r') as f:
-            yaml .safe_load(f)
+            yaml.safe_load(f)
         return True, "docker-compose.yml is valid."
 
 

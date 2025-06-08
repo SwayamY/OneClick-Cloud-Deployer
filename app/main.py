@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI # type: ignore
 from app.endpoints.clone_repo import router as clone_router
 from app.endpoints.validate_compose import router as validate_router
 
