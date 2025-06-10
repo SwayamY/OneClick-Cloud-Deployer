@@ -19,7 +19,7 @@ jobs:
         
         steps:
             - name: check code
-              uses: action/checkout@v3
+              uses: actions/checkout@v3
 
 
             - name: python steup
