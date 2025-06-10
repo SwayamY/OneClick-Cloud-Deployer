@@ -35,7 +35,7 @@ jobs:
 
             - name: Build docker image
               run: |
-                docker build -t oneclick-cloud 
+                docker build -t oneclick-cloud .
             
             - name: Docker image built successfully 
               run: echo "Docker image built"
